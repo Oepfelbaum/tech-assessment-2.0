@@ -1,4 +1,4 @@
-# Oepfelbaum Tech Assessment
+# 🍎 Oepfelbaum Tech Assessment
 
 A warm welcome dear techie. This repository should allow you to get s first technical briefing of your upcoming task.
 
