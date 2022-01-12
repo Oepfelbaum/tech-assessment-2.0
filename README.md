@@ -6,7 +6,7 @@ A warm welcome dear techie. This repository should allow you to get s first tech
 ## 📈 The Process
 The process will roughly be as follows:
 
-| Step| Eplanation | Duration | Participants |
+| Step| Explanation | Duration | Participants |
 |----|----|----|----|
 | **Kick-Off**| Meeting to get you up and going. We will present you the business requirements and you will have the first chance to get to know us & ask questions. | approx. 0.5h | You, a Software Engineer and a Business Engineer
 | **Project** | Freely schedulable timeframe to work on the project and the business requirements. | approx. 4 active hours / 1 week total | You (and us on hold in case you have any questions!)
