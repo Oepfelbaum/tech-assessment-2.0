@@ -2,6 +2,7 @@
 
 A warm welcome dear techie. This repository should allow you to get s first technical briefing of your upcoming task.
 
+&nbsp;
 ## 📈 The Process
 The process will roughly be as follows:
 
@@ -13,6 +14,7 @@ The process will roughly be as follows:
 | **Review** | We will have a closer look at your submission and discuss the results | approx. 2 days | Oepfelbaum
 | **Feedback** | We give you detailed feedback and tell you about the next steps | ? | You & your recruiting contact
 
+&nbsp;
 ## 🚧  The Project
 In this technical assessment, you will be developing a small client-facing & web-based banking application using the open banking API standards.
 You are pretty much free to design your application, as long as you stick to the following requirements.
@@ -62,6 +64,7 @@ Focus on a web-facing application and do not try to create some hybrid web/app a
   * Reflect about your work
   * No slides necessary for this. Just be prepared ;-)
 
+&nbsp;
 ## 🧐 Final words
 Please note, that the 4 active hours for the project are an approximation.
 If you do want to spend an extra hour to go the extra mile, we won't mind.
