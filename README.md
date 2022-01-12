@@ -46,6 +46,7 @@ We are sure you are aware of our **tech-stack** and that of our clients. So plea
 The time-frame is too tight to do proper **Authorization & Authentication**. So we do not expect you to work on that.
 
 Focus on a web-facing application and do not try to create some hybrid web/app application.
+
 ### 📦 Deliverables
 * Source Code
   * Make sure it is runnable
