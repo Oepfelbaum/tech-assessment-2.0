@@ -24,14 +24,15 @@ It is essential that you focus on the main requirements in the first place and t
 We do not expect you to develop a production-ready application during this project.
 During the presentation you will be given the opportunity to explain any additional step you would do, if you had the time.
 
+&nbsp;
 ### 🛠️ Prerequisites
 Before the kick-off meeting, please make sure to have prepared the following:
 * [Create NatWest Sandbox Account](https://auth.sandbox.natwest.com/auth/realms/NatWestPortal/protocol/openid-connect/registrations?client_id=devportal&redirect_uri=https%3A%2F%2Fdeveloper.sandbox.natwest.com%2F&state=191b2e6f-528f-4ec6-8610-225e815ba850&response_mode=fragment&response_type=code&scope=openid&nonce=ea56482f-8f42-4167-a1d6-9a440c03998f&code_challenge=lEzU2zGpUC6qxYsyJCTLv6oDHLBwV5SQUtHBOD0WAdE&code_challenge_method=S256)
 * Have your favorite IDE & tools up and running (remember our tech stack)
 * Prepare any questions you might need to have answered before you start
 
+&nbsp;
 ### 📋 Requirements
-
 #### Technical
 * Use the NatWest Sandbox to access data ([Documentation](https://developer.sandbox.natwest.com/documentation/), [Test Data](https://developer.sandbox.natwest.com/documentation/devPortal/testdata))
 * Create a Web-Facing Application
@@ -42,6 +43,7 @@ Before the kick-off meeting, please make sure to have prepared the following:
 #### Business
 The business requirements will be presented to you during the kick-off session. Stay tuned for that!
 
+&nbsp;
 ### 🚫 Out-of-Scope
 We are sure you are aware of our **tech-stack** and that of our clients. So please stick with that!
 
@@ -49,6 +51,7 @@ The time-frame is too tight to do proper **Authorization & Authentication**. So 
 
 Focus on a web-facing application and do not try to create some hybrid web/app application.
 
+&nbsp;
 ### 📦 Deliverables
 * Source Code
   * Make sure it is runnable
