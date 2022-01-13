@@ -1,6 +1,6 @@
 # 🍎 Oepfelbaum Tech Assessment
 
-A warm welcome dear techie. This repository should allow you to get s first technical briefing of your upcoming task.
+A warm welcome dear Techie. This repository covers the main information from your Tech Assessment - please read carefully.
 
 &nbsp;
 ## 📈 The Process
@@ -8,21 +8,17 @@ The process will roughly be as follows:
 
 | Step| Explanation | Duration | Participants |
 |----|----|----|----|
-| **Kick-Off**| Meeting to get you up and going. We will present you the business requirements and you will have the first chance to get to know us & ask questions. | approx. 0.5h | You, a Software Engineer and a Business Engineer
-| **Project** | Freely schedulable timeframe to work on the project and the business requirements. | approx. 4 active hours / 1 week total | You (and us on hold in case you have any questions!)
-| **Presentation** | Your time to shine! Present us with your work and make our jaws drop. Do your free to do this in any form you see suited, but a demo is always nice! This is also a good point for you to ask any questions about Oepfelbaum. | approx. 1h | The same people as in the kick-off
-| **Review** | We will have a closer look at your submission and discuss the results | approx. 2 days | Oepfelbaum
-| **Feedback** | We give you detailed feedback and tell you about the next steps | ? | You & your recruiting contact
+| **Sprint Kick-Off**| Briefing to get you up and going. The business analyst and lead engineer will present the business requirements. Feel free to raise any questions if applicable. | approx. 0.5h | You, the Lead Software Engineer and the Business Analyst from your project team
+| **Sprint** | Freely schedulable timeframe to work on the project and the business requirements. | approx. 4 active hours / 1 week total | You (and us on hold in case you have any questions!)
+| **Sprint Review** | Your time to shine! Present us your work in any suitable way of your choice. This is also a good chance to ask any questions re Oepfelbaum. | approx. 1h | The same people as in the kick-off
+| **Internal Review** | We will have a closer look at your submission and discuss the results | approx. 2 days | Oepfelbaum
+| **Feedback** | We give you detailed feedback and tell you about the next steps | approx. 0.5h | You & your recruiting contact
 
 &nbsp;
 ## 🚧  The Project
 In this technical assessment, you will be developing a small client-facing & web-based banking application using the open banking API standards.
-You are pretty much free to design your application, as long as you stick to the following requirements.
+You are pretty much free to design your application, as long as you stick to the requirements provided during the Sprint Kick-off as well as the information provided on this page.
 
-Please be aware that the time-frame for this project is tight.
-It is essential that you focus on the main requirements in the first place and to not get distracted by any fancy but non-essentail (or required) features.
-We do not expect you to develop a production-ready application during this project.
-During the presentation you will be given the opportunity to explain any additional step you would do, if you had the time.
 
 &nbsp;
 ### 🛠️ Prerequisites
@@ -34,7 +30,7 @@ Before the kick-off meeting, please make sure to have prepared the following:
 &nbsp;
 ### 📋 Requirements
 #### Technical
-* Use the NatWest Sandbox to access data ([Documentation](https://developer.sandbox.natwest.com/documentation/), [Test Data](https://developer.sandbox.natwest.com/documentation/devPortal/testdata))
+* Use the NatWest Sandbox to access data ([Documentation](https://developer.sandbox.natwest.com/documentation/), [Test Data](https://developer.sandbox.natwest.com/documentation/devPortal/testdata)) <b>Können  wirdas  ersetzen mit einem generischen account, sodass der Kandidat keine eigenen Daten preisgeben muss?</b>
 * Create a Web-Facing Application
 * Stay around our tech-stack
 * Ensure runnable code
@@ -65,13 +61,19 @@ Focus on a web-facing application and do not try to create some hybrid web/app a
   * Tell us about your work
   * Show us your work (demo?)
   * Reflect about your work
-  * No slides necessary for this. Just be prepared ;-)
+  * Choose your own way and tools to present - nobody really cares about slides if you show off the final result instead :grin:
+
+
+
 
 &nbsp;
-## 🧐 Final words
-Please note, that the 4 active hours for the project are an approximation.
-If you do want to spend an extra hour to go the extra mile, we won't mind.
-But we absolutely do not expect you to work a whole day on this project.
-
-
-We are all very much looking forward to your submission and your presentation. We really hope you will enjoy this challenge as much as we did. And please feel free to contact us at any time, when you are stuck and could need some help or clarification!
+## :point_right: Helpful hints and tricks
+<b>Work-Life Balance</b> is an essential thing at Oepfelbaum: Please take as much time as required to code the solution but take breaks and manage your time wisely. 
+- Focus on the main requirements before implementing any additional features you have in mind to impress us even further.
+- We expect a good software engineer to implement the feature within 4 hours, take this as an approximate but do it at your own pace
+- If you get stuck at some point we are happy to support <i>as time allows</i>. 
+- If you won't manage to implement all requirements in time <b>don't worry!</b> We are happy to hear about the challenges you faced during the sprint at the sprint review.
+- During the presentation leave some time to let us know about what you would do next if the project would go on such as additional features or technical refinements.
+&nbsp;
+### :grinning: Enjoy the time!
+We are all very much looking forward to your submission and your presentation. We really hope you will enjoy this challenge as much as we did. And once more, please feel free to contact us at any time, when you are stuck and could need some help or clarification!
