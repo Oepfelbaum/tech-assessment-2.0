@@ -45,6 +45,7 @@ The business requirements will be presented to you during the kick-off session. 
 We are sure you are aware of our **tech-stack** and that of our clients. So please stick with that!
 
 The time-frame is too tight to do proper **Authorization & Authentication**. So we do not expect you to work on that.
+existierender technischer user nutzen
 
 Focus on a web-facing application and do not try to create some hybrid web/app application.
 
@@ -71,9 +72,9 @@ Focus on a web-facing application and do not try to create some hybrid web/app a
 ## :point_right: Helpful hints and tricks
 <b>Work-Life Balance</b> is an essential thing at Oepfelbaum: Please take as much time as required to code the solution but take breaks and manage your time wisely. 
 - Focus on the main requirements before implementing any additional features you have in mind to impress us even further.
-- We expect a good software engineer to implement the feature within 4 hours, take this as an approximate but do it at your own pace
+- We expect a good software engineer to implement the feature within 4 hours, take this as an estimate but do it at your own pace
 - If you get stuck at some point we are happy to support <i>as time allows</i>. 
-- If you won't manage to implement all requirements in time <b>don't worry!</b> We are happy to hear about the challenges you faced during the sprint at the sprint review.
+- If you won't manage to implement all requirements or have production ready code in time <b>don't worry!</b> We are happy to hear about the challenges you faced during the sprint at the sprint review.
 - During the presentation leave some time to let us know about what you would do next if the project would go on such as additional features or technical refinements.
 &nbsp;
 ### :grinning: Enjoy the time!
