@@ -44,7 +44,8 @@ The business requirements will be presented to you during the kick-off session. 
 We are sure you are aware of our **tech-stack** and that of our clients. So please stick with that!
 
 The time-frame is too tight to do proper **Authorization & Authentication**. So we do not expect you to work on that.
-existierender technischer user nutzen
+Please also note, that the open-banking servers are using a specific SSL-Certificate, which will most likely not be trusted by your browser.
+You may thus want to build up a custom proxy or manually add the [certificates provided by Open Banking](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/252018873/OB+Root+and+Issuing+Certificates+for+Sandbox).
 
 Focus on a web-facing application and do not try to create some hybrid web/app application.
 
