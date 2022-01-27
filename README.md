@@ -32,16 +32,19 @@ Before the kick-off meeting, please make sure to have prepared the following:
 #### Technical
 * Use the NatWest Sandbox to access data ([Documentation](https://developer.sandbox.natwest.com/documentation/), [Test Data](https://developer.sandbox.natwest.com/documentation/devPortal/testdata)) 
 * Create a Web-Facing Application
-* Stay around our tech-stack
+* Stay around our tech-stack (Just use what you see suited for this task and the provided time-frame.)
 * Ensure runnable code
-* Make me laugh (on purpose)
+* Bonus: Surprise us or make us laugh!
 
 #### Business
 The business requirements will be presented to you during the kick-off session. Stay tuned for that!
 
 &nbsp;
 ### 🚫 Out-of-Scope
-We are sure you are aware of our **tech-stack** and that of our clients. So please stick with that!
+We are sure you are aware of our **tech-stack** and that of our clients. 
+So please stick with that!
+But there is no need to use all technologies listed in our tech-stack. 
+Just use what you see suited for the task and what allows you to rapidly work on fulfilling the requirements.
 
 The time-frame is too tight to do proper **Authorization & Authentication**. So we do not expect you to work on that.
 Please also note, that the open-banking servers are using a specific SSL-Certificate, which will most likely not be trusted by your browser.
