@@ -8,11 +8,11 @@ The process will roughly be as follows:
 
 | Step| Explanation | Duration | Participants |
 |----|----|----|----|
-| **Sprint Kick-Off**| Briefing to get you up and going. The business analyst and lead engineer will present the business requirements. Feel free to raise any questions if applicable. | max. 0.5h | You, the Lead Software Engineer and the Business Analyst from your project team
-| **Sprint** | Freely schedulable timeframe to work on the project and the business requirements. | approx. 4 active hours / 1 week total | You (and us on hold in case you have any questions!)
+| **Sprint Kick-Off**| Briefing to get you up and going. The business analyst will present the business requirements. Feel free to raise any questions if applicable. | max. 0.5h | You and the Business Analyst from your project team
+| **Sprint** | Freely schedulable timeframe to work on the project and the business requirements. | approx. 4-5 active hours / 1 week total | You (and us on hold in case you have any questions!)
 | **Sprint Review** | Your time to shine! Present us your work in any suitable way of your choice. This is also a good chance to ask any questions re Oepfelbaum. | approx. 1h | The same people as in the kick-off
 | **Internal Review** | We will have a closer look at your submission and discuss the results | approx. 2 days | Oepfelbaum
-| **Feedback** | We give you detailed feedback and tell you about the next steps | approx. 0.5h | You & your recruiting contact
+| **Feedback** | We provide you a detailed feedback and inform you about the next steps | approx. 0.5h | You & your recruiting contact
 
 &nbsp;
 ## 🚧  The Project
