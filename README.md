@@ -1,6 +1,6 @@
 # 🍎 Oepfelbaum Tech Assessment
 
-A warm welcome dear Techie. This repository covers the main information from your Tech Assessment - please read carefully.
+A warm welcome dear Techie. This repository covers the main information about your Tech Assessment - please read carefully.
 
 &nbsp;
 ## 📈 The Process
