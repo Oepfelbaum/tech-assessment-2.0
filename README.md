@@ -23,14 +23,14 @@ You are pretty much free to design your application, as long as you stick to the
 &nbsp;
 ### 🛠️ Prerequisites
 Before the kick-off meeting, please make sure to have prepared the following:
-* [Create NatWest Sandbox Account](https://auth.sandbox.natwest.com/auth/realms/NatWestPortal/protocol/openid-connect/registrations?client_id=devportal&redirect_uri=https%3A%2F%2Fdeveloper.sandbox.natwest.com%2F&state=191b2e6f-528f-4ec6-8610-225e815ba850&response_mode=fragment&response_type=code&scope=openid&nonce=ea56482f-8f42-4167-a1d6-9a440c03998f&code_challenge=lEzU2zGpUC6qxYsyJCTLv6oDHLBwV5SQUtHBOD0WAdE&code_challenge_method=S256)
+* [Create NatWest Sandbox Account](https://developer.sandbox.natwest.com/)
 * Have your favorite IDE & tools up and running (remember our tech stack)
 * Prepare any questions you might need to have answered before you start
 
 &nbsp;
 ### 📋 Requirements
 #### Technical
-* Use the NatWest Sandbox to access data ([Documentation](https://developer.sandbox.natwest.com/documentation/), [Test Data](https://developer.sandbox.natwest.com/documentation/devPortal/testdata)) 
+* Use the NatWest Sandbox to access data (Login required: [Documentation](https://developer.sandbox.natwest.com/documentation), [Test Data](https://developer.sandbox.natwest.com/documentation/Test-Data/Introduction-to-Test-Data)) 
 * Create a Web-Facing Application
 * Stay around our tech-stack (Just use what you see suited for this task and the provided time-frame.)
 * Ensure runnable code
