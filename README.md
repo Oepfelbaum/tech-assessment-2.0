@@ -46,8 +46,7 @@ We would be happy if you stick within these areas! Yet there is no need to use a
 Just use whatever you think is required for the task considering your own skills to rapidly work on fulfilling the requirements.
 
 The time-frame is too tight to do proper **Authorization & Authentication**. So we do not expect you to work on that.
-Please also note, that the open-banking servers are using a specific SSL-Certificate, which will most likely not be trusted by your browser.
-You may thus want to build up a custom proxy or manually add the [certificates provided by Open Banking](https://openbanking.atlassian.net/wiki/spaces/DZ/pages/252018873/OB+Root+and+Issuing+Certificates+for+Sandbox).
+How to access the NatWest API is described in the [Documentation](https://developer.sandbox.natwest.com/documentation) as well as in the Getting started of every API of the [API Catalogue](https://developer.sandbox.natwest.com/api-catalog) 
 
 Focus on a web-facing application and do not try to create some hybrid web/app application.
 
