@@ -66,10 +66,21 @@ Focus on a web-facing application and do not try to create some hybrid web/app a
   * Reflect about your work
   * Choose your own way and tools to present - nobody really cares about slides if you show off the final result instead :grin:
 
+## 🤖 AI Usage Guidelines
+The use of AI tools is **allowed and encouraged** — this reflects how many of our engineers and clients work today.
 
+### What is allowed
+* General AI assistance (GitHub Copilot, ChatGPT, Claude, etc.) for code completion, suggestions, or research
+* Agentic coding workflows (Copilot CLI, Claude Code, Cursor, or similar tools) that take a more autonomous role in generating or refactoring code
 
+### What we expect
+Regardless of how you use AI, **you must be able to explain and own your submission**. Specifically:
 
-&nbsp;
+* **If you used AI assistance:** briefly describe how in your presentation or in the repository (e.g., a note in your README, a commit message, or a dedicated section). What did you ask it? What did you accept, reject, or modify?
+* **If you used agentic coding tools:** go one step further and explain the workflow you followed — which tools, what prompts or skills you used, how you reviewed the output, and where you applied your own judgment.
+
+There is no penalty for using AI — the opposite is true. What we are evaluating is your ability to work effectively with these tools, understand the code they produce, and make sound engineering decisions.
+
 ## :point_right: Helpful hints and tricks
 <b>Work-Life Balance</b> is an essential thing at Oepfelbaum: Please take as much time as required to code the solution but take breaks and manage your time wisely. 
 - Focus on the main requirements before implementing any additional features you have in mind to impress us even further.
