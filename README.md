@@ -40,11 +40,13 @@ Before the kick-off meeting, please make sure to have prepared the following:
 The business requirements will be presented to you during the kick-off session. Stay tuned for that!
 
 &nbsp;
-### 🚫 Out-of-Scope
+### Tech stack
 Please consider our **tech-stack** and that of our clients (check out our job posting regarding that). 
 We would be happy if you stick within these areas! Yet there is no need to use all technologies listed.
 Just use whatever you think is required for the task considering your own skills to rapidly work on fulfilling the requirements.
 
+&nbsp;
+### 🚫 Out-of-Scope
 The time-frame is too tight to do proper **Authorization & Authentication**. So we do not expect you to work on that.
 How to access the NatWest API is described in the [Documentation](https://developer.sandbox.natwest.com/documentation) as well as in the Getting started of every API of the [API Catalogue](https://developer.sandbox.natwest.com/api-catalog) 
 
